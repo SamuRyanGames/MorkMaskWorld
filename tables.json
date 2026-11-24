@@ -76,37 +76,6 @@
       "Superhuman Power (Teleportation, reality manipulation)",
       "Unexplained Displacement (Mysterious disappearance, reality shift)"
     ],
-    "Reputation": [
-      "Totally Unheard Of",
-      "Known Would-Be Hero",
-      "Local Hero",
-      "Established Hero",
-      "Celebrated Super Hero",
-      "Mysterious Vigilante",
-      "Controversial Hero",
-      "Disgraced Hero",
-      "Suspected Villain",
-      "Established Villain",
-      "Infamous Super Villain"
-    ],
-    "Ambition": [
-      "Hero",
-      "Super Hero",
-      "Legend",
-      "Protector",
-      "Vigilante",
-      "Professional",
-      "Celebrity",
-      "Wealth",
-      "Knowledge",
-      "Power",
-      "Revolutionary",
-      "Ruler",
-      "Master Criminal",
-      "Super Villain",
-      "Conqueror",
-      "None/Undecided"
-    ],
     "City Characteristics": [
       "Crime Capital: Organized crime controls much of the city.",
       "City of Heroes: Superheroes are celebrated, and many call this place home.",
@@ -358,37 +327,6 @@
       25,
       10,
       15
-    ],
-    "Reputation": [
-      3,
-      2,
-      2,
-      2,
-      1,
-      2,
-      2,
-      1,
-      2,
-      2,
-      1
-    ],
-    "Ambition": [
-      2,
-      2,
-      1,
-      2,
-      2,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
     ]
   },
   "city": {
