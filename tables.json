@@ -1,5 +1,15 @@
 {
   "tables": {
+    "Beyond the City": [
+      "Wilderness: Vast expanses of largely uninhabited natural terrain.",
+      "Rural Communities: Farms, villages, and small, scattered settlements.",
+      "Urban Sprawl: Suburbs and neighboring cities with few meaningful boundaries.",
+      "Wasteland: Devastated, polluted, or otherwise inhospitable territory.",
+      "Frontier: Sparsely populated, largely ungoverned territory.",
+      "Forbidden Territory: Access is restricted by governmental or military authorities.",
+      "Hostile Wilderness: Territory inhabited by dangerous creatures or other hostile entities.",
+      "Isolation: The city is geographically or technologically isolated, making departure exceptionally difficult."
+    ],
     "Government": [
       "Stateless Society (Wild West, Mad Max)",
       "Democracy (United States, Ancient Athens)",
